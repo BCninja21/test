@@ -21,7 +21,7 @@ author: "Jacky"
 
 #### **12.24**
 <font size=3>
-逛街，吃饭。预定饭店（待定）
+逛街，去鸭川，然后吃饭。预定饭店（待定）
 </font>
 
 
@@ -37,3 +37,4 @@ author: "Jacky"
 <font size=3>
 二条城（待定）
 </font>
+
